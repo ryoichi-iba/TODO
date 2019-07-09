@@ -1,0 +1,15 @@
+current directory: /Users/ryoichi_iba/RubymineProjects/untitled/Todo/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/ryoichi_iba/.rbenv/versions/2.5.5/bin/ruby -r ./siteconf20190710-27620-1be998d.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryoichi_iba/RubymineProjects/untitled/Todo/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ryoichi_iba/RubymineProjects/untitled/Todo/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/ryoichi_iba/RubymineProjects/untitled/Todo/vendor/bundle/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190710-27620-1fq7nja/skiptrace
